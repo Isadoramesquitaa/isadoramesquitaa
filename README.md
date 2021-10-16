@@ -1,7 +1,7 @@
 ### Olá! Bem - vinda(o) ao meu perfil! 😉
 
 - 🔭 Trabalhando em projetos internos da faculdade
-- 🌱 Estudando RecSys e Reinforcement Learning
+- 🌱 Estudando Reinforcement Learning
 - ⚡ Amo gatos, ler e pequi
 ##
  <div>
