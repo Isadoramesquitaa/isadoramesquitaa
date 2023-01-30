@@ -1,7 +1,7 @@
 ### Olá! Bem - vinda(o) ao meu perfil! 😉
 
 - 🔭 Trabalhando em projetos internos da faculdade
-- ⚡ Amo gatos, ler e pequi
+- ⚡ Atualmente me desenvolvendo dentro do CEIA
 ##
  <div>
   <a href="https://github.com/isadoramesquitaa">
