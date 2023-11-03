@@ -13,9 +13,9 @@
   
 ## 
  <div style="display: inline_block"><br>
-  TECHS que tive algum contato:\
+ <title> TECHS que tive algum contato: <br />
   <img align="center" alt="Isa-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-Flask" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Isa-Flask" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flask/flask-original.svg">
   <img align="center" alt="Isa-C" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
   <img align="center" alt="Isa-Jupyter" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Isa-Ruby" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/ruby/ruby-original-wordmark.svg">
