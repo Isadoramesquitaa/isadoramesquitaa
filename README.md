@@ -1,8 +1,8 @@
 ### Olá! Bem - vinda(o) ao meu perfil! 😉
 
--  Trabalhando em projetos internos da faculdade
+-  Trabalhando em projetos de PD&I na faculdade
 -  Crescendo com a Trilha de Dados Ada Tech - Ifood
--  Desenvolvendo o melhor de mim dentro do CEIA
+-  Desenvolvendo o melhor de mim a cada experiência
 -  Ganhando experiência em liderença na EJ Level 5
 ##
  <div>
