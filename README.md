@@ -1,27 +1,44 @@
-### Olá! Bem - vinda(o) ao meu perfil! 😉
-
--  Trabalhando em projetos de PD&I na faculdade
--  Crescendo com a Trilha de Dados Ada Tech - Ifood
--  Desenvolvendo o melhor de mim a cada experiência
--  Ganhando experiência em liderença na EJ Level 5
-##
- <div>
-  <a href="https://github.com/isadoramesquitaa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isadoramesquitaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoramesquitaa&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <h1>Isadora Mesquita</h1>
+  <p>Data Science | Tech Enthusiast</p>
 </div>
-  
-## 
-**TECHS que tive contato:**
- <div style="display: inline_block"><br>
-  <img align="center" alt="Isa-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-C" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
-  <img align="center" alt="Isa-Jupyter" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Isa-Ruby" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/ruby/ruby-original-wordmark.svg">
-</div> 
 
-##
-  <a href="https://www.instagram.com/isadorastefanyrrm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="Isadora Stéfany#8223" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<!-- 
+<div align="center">
+  <a href="https://github.com/isadoramesquitaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoramesquitaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoramesquitaa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+-->
+
+### ✨ Sobre Mim
+
+Olá! Sou graduada no **primeiro Bacharelado em Inteligência Artificial do Brasil** pela UFG e trabalho como **Cientista de Dados** e **pesquisadora**. Estou no mercado atuando diretamente na frente de soluções de impacto estratégico, e inserida em um ambiente de pesquisa de tecnologias inovadoras, CEIA e AKCIT! Carrego na minha bagagem experiência com Machine Learning, modelagem preditiva, IA Generativa, LLMs e pipeline de dados.
+
+---
+
+### 🚀 Minha Stack de Tecnologias
+
+<div align="center" style="display: inline_block">
+  <br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="Scikit-Learn" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+  <img align="center" alt="LangChain" height="70" width="65" src="https://agile-systems.de/wp-content/uploads/2024/03/LangChain-Logo.png" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+---
+
+### Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/isadora-st%C3%A9fany-895b77190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:isadorastefany.isa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isadora-st%C3%A9fany-895b77190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/isadorastefanyrrm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Discord-Isadora Stéfany%238223-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</div>
+
+---
