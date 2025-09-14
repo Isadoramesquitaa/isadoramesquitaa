@@ -1,7 +1,9 @@
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm80MTNhdHo0czU1dG42YmlhMTUydW92OXU5MTFrODZtNGVuOXB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Mxwrdx1tEmarDJCCNs/giphy.gif" width="150"/>
   <h1>Isadora Mesquita</h1>
   <p>Data Science | Tech Enthusiast</p>
 </div>
+
 
 <!-- 
 <div align="center">
